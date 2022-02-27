@@ -3,7 +3,7 @@ Here we try to poison the ARP table for our router
 NOTE: Works in local network
 
 USAGE:
- python3 ARPspoofer.py <router ip> <target ip>
+ python3 MalaciousARP.py <router ip> <target ip>
  
 Here we take router ip and target ip 
 we then get the mac address of both 
